@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Order 1",
+    "price": 1240.99,
+    "date": "24/09/18",
+    "products": [
+      {
+        "id": 223,
+        "description": "Product 1"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Basisproducten",
+    "price": 980.99,
+    "date": "16/09/18",
+    "products": [
+      {
+        "id": 223,
+        "description": "Product 1"
+      },
+      { "id": 224, "description": "Product 2" },
+      { "id": 225, "description": "Product 3" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Order 3",
+    "date": "12/09/18",
+    "price": 1000.99,
+    "products": [
+      {
+        "id": 223,
+        "description": "Product 1"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Order 4",
+    "date": "10/09/18",
+    "price": 1240.99,
+    "products": [
+      {
+        "id": 223,
+        "description": "Product 1"
+      }
+    ]
+  }
+]
